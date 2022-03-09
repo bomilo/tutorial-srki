@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-srki",
+  "version": "1.0.0",
+  "description": "Some dummy node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomilo/tutorial-srki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bomilo/tutorial-srki/issues"
+  },
+  "homepage": "https://github.com/bomilo/tutorial-srki#readme"
+}
